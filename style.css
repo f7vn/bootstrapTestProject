@@ -1,0 +1,25 @@
+.column {
+   background: #ccc;
+   border: solid 1px black;
+   text-align: center;
+ }
+.oneoftree {
+   background: #FFC940;
+   height: 40px;
+}
+.twooftree {
+   background: #7945D6;
+   border: dashed 1px black;
+   height: 40px;
+}
+.treeoftree {
+  background: #3BA3D0;
+  height: 40px;
+}
+.hide {
+	display:none;
+}
+
+h5 {
+	text-align: center;
+}
